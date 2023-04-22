@@ -1,2 +1,3 @@
 # projects
-Its a project
+A sample repository
+
