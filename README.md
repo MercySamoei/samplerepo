@@ -1,3 +1,1 @@
-# projects
-A sample repository
 
